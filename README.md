@@ -20,5 +20,5 @@ Meu roadmap seguindo a: https://techguide.sh/
   - [ ] ARTICLE: Listas em Python: operações básicas
   - [ ] ARTICLE: Como comparar objetos no Python?
   - [ ] ARTICLE: Python datetime: Lidando com datas e horários
-  - [ ] COURSE: Curso Python: crie a sua primeira aplicação
+  - [x] COURSE: Curso Python: crie a sua primeira aplicação - *27/06/2024*
   - [ ] COURSE: Formação Python e orientação a objetos
