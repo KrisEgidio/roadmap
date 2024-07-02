@@ -7,7 +7,7 @@ Meu roadmap seguindo a: https://techguide.sh/
 - [ ] Python Fundamentos
   - [ ] SITE: Documentação Python
   - [ ] ARTICLE: Programação | Python — Parte 1
-  - [ ] ARTICLE: Introdução ao Python
+  - [x] ARTICLE: Introdução ao Python - *02/07/2024*
   - [ ] YOUTUBE: Dabieu: Introdução à programação com Python - Conceitos Básicos
   - [ ] YOUTUBE: Eduardo Mendes: Curso introdutório de Python
   - [ ] ARTICLE: O que é Python? História, Sintaxe e um Guia para iniciar na Linguagem
